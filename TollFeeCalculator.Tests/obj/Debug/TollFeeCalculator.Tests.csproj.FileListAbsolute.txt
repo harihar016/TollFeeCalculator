@@ -8,3 +8,13 @@ D:\Tutorials\TollFeeCalculator\TollFeeCalculator.Tests\obj\Debug\TollFeeCalculat
 D:\Tutorials\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\log4net.dll
 D:\Tutorials\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\TollFeeCalculator.Tests.dll.config
 D:\Tutorials\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\log4net.xml
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\TollFeeCalculator.Tests.dll.config
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\TollFeeCalculator.Tests.dll
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\TollFeeCalculator.Tests.pdb
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\TollFeeCalculator.exe
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\log4net.dll
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\TollFeeCalculator.pdb
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\bin\Debug\log4net.xml
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\obj\Debug\TollFeeCalculator.Tests.csprojResolveAssemblyReference.cache
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\obj\Debug\TollFeeCalculator.Tests.dll
+D:\Others\TollFeeCalculator\TollFeeCalculator.Tests\obj\Debug\TollFeeCalculator.Tests.pdb
