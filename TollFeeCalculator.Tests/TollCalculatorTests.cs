@@ -32,5 +32,32 @@ namespace TollFeeCalculator.Tests
             int tollFee = toll.GetTollFee(new Car(), date);
             Assert.AreEqual(tollFee, 60);
         }
+
+        [TestMethod]
+        public void GetZeroTollFeeForTollFreeDateTime()
+        {
+            DateTime[] date = { new DateTime(2018, 08, 17, 19, 25, 0), new DateTime(2018, 08, 17, 20, 40, 0) };
+            TollCalculator toll = new TollCalculator();
+            int tollFee = toll.GetTollFee(new Car(), date);
+            Assert.AreEqual(tollFee, 0);
+        }
+
+        [TestMethod]
+        public void GetZeroTollFeeForTollFreeDate()
+        {
+            DateTime[] date = { new DateTime(2018, 11, 1, 19, 25, 0) };
+            TollCalculator toll = new TollCalculator();
+            int tollFee = toll.GetTollFee(new Car(), date);
+            Assert.AreEqual(tollFee, 0);
+        }
+
+        [TestMethod]
+        public void GetZeroTollFeeForHoliday()
+        {
+            DateTime[] date = { new DateTime(2018, 08, 18, 19, 25, 0) };
+            TollCalculator toll = new TollCalculator();
+            int tollFee = toll.GetTollFee(new Car(), date);
+            Assert.AreEqual(tollFee, 0);
+        }
     }
 }
