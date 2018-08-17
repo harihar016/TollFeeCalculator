@@ -20,7 +20,7 @@ Running the Tests :
 
 TollFeeCalculator.Tests is the test project. Go to TollCalculatorTests class to see the test cases.Right click on [TestClass] and select Run Tests to run all test cases.
 
-I have covered 3 test cases namely Collecting ToolFee for NoTollFree Vehicle, Toll Free Vehicle and Max Toll fee Collection. You can change the input and check the test cases.
+I have covered 6 test cases namely Collecting ToolFee for NoTollFree Vehicle, Toll Free Vehicle, Max Toll fee Collection, No Toll Fee collection for Holiday,TollFreeDateTime and Toll Free Date. You can change the input and check the test cases.
 
 Authors :
 Mallikarjuna BS"# TollFeeCalculator" 
